@@ -138,9 +138,9 @@ if more=="t":
 sedangkan code diatas adalah untuk perintah menambahkan data dengan pertanyaan ya atau tidak, dengan definisi jika ya, maka ketikkan y pada keyboard, maka akan mengulang inputan list. dan jika tidak, ketikkan t paada keyboard, maka akan menampilkan hasil list yang telah di inputkan
 
 print("                                       Daftar Mahasiswa                               ")
-print("======================================================================================")
+print("========================================================================")
 print("|    No.    |    Nama    |   NIM    |    Tugas   |   UTS    |    UAS    |    Akhir   |")
-print("======================================================================================")
+print("========================================================================")
 
 diatas untuk membuat border agar terlihat rapi
 
