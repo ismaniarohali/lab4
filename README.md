@@ -41,13 +41,13 @@ print("merubah elemen ke 4 sampai elemen terakhir:", list)
 
 berikut hasil pemogramannya:
 
-![gambar2](ss.ss2.jpg)
+![gambar2](ss/ss2.jpg)
 
 ### Latihan untuk menambahkan elemen dalam list:
 
 berikut gambar program nya:
 
-![gambar3](ss.ss3.jpg)
+![gambar3](ss/ss3.jpg)
 
 tambah elemen list
 
