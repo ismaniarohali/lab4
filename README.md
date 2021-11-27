@@ -7,7 +7,7 @@ list=[]
 
 berikut penulisan dalam python yaitu:
 
-![gambar!](ss/ss1.jpg)
+![gambar1](ss/ss1.jpg)
 
 dengan keterangan:
 
